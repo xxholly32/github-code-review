@@ -1,0 +1,26 @@
+{
+  "name": "github-code-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "request": "^2.87.0"
+  },
+  "scripts": {
+    "debug": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxholly32/github-code-review.git"
+  },
+  "author": "xiangxiao3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxholly32/github-code-review/issues"
+  },
+  "homepage": "https://github.com/xxholly32/github-code-review#readme"
+}
